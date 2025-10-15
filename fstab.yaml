@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/Ariel-GRcnx/eds-training/
+    type: markup
+
+folders:
+  /products/: /products/default
